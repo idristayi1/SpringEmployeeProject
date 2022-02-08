@@ -1,0 +1,5 @@
+com\qa\springEmployee\controller\EmployeeControllerIntegrationTest.class
+com\qa\springEmployee\service\EmployeeServiceUnitTest.class
+com\qa\springEmployee\controller\EmployeeControllerUnitTest.class
+com\qa\springEmployee\domain\EmployeeTest.class
+com\qa\springEmployee\SpringEmployeeProjectApplicationTests.class

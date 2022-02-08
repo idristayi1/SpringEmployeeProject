@@ -1,0 +1,1 @@
+INSERT INTO employee (firstname, surname, email, mobileNo, address, sex, jobPost) VALUES (Idris, 'Adebayo', 'email1@email.com', '07405592921', 'Male', 'Manager');
