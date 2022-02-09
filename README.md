@@ -15,13 +15,13 @@ The ability to integrate and store data remotely is fast becoming a must in the 
  
 ## Screenshots of Postman requests and the output from the API
 **Postman call to CREATE new employee data**
-![](ReadMeDocumentation/createVerificationn.png)
+![](ReadMeDocumentation/createVerification.png)
 
 **Postman call to READ all employee data entries**
 ![](ReadMeDocumentation/readAllverification.png)
 
 **Postman call to READ employee data by their Id**
-![](ReadMeDocumentation/ReadbyIdverification.png)
+![](ReadMeDocumentation/readByIdverification.png)
 
 **Postman call to UPDATE an employee data entry by the Id**
 ![](ReadMeDocumentation/updateVerification.png)
